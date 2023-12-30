@@ -1,1 +1,1 @@
-# ESM1b_IEDB_LBCE_proteins_largeprots
+## LBCE Protein dataset - large proteins
